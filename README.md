@@ -17,7 +17,7 @@ The idea for integrating AI technology emerged from the need to enhance operatio
 JPMorgan Chase is funded through its operations and capital markets, as it is a publicly traded company. "As a publicly traded entity, JPMorgan Chase primarily funds its operations through capital markets and internal revenue" (SEC, 2023).
 
 ## Business Activities
-### What specific problem is the company or project trying to solve?
+#### What specific problem is the company or project trying to solve?
 The company aims to solve inefficiencies in banking operations, enhance customer service, and improve risk management through AI-driven solutions.
 
 ### Who is the company's intended customer? Is there any information about the market size of this set of customers?
