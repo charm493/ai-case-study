@@ -1,7 +1,7 @@
 
 # JPMorgan Chase: AI Development Process
 ## Overview and Origin
-### Name of Company:
+#### Name of Company:
 JPMorgan Chase & Co.
 
 ### When was the company incorporated?
