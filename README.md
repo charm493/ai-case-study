@@ -5,35 +5,23 @@
 JPMorgan Chase & Co.
 
 #### When was the company incorporated?
-JPMorgan Chase was incorporated in 2000, evolving from a series of mergers among financial institutions. As stated on their official site.
-```
-"JPMorgan Chase & Co. was formed through a series of mergers and acquisitions" (JPMorgan Chase, n.d.)
-```
+JPMorgan Chase was incorporated in 2000, evolving from a series of mergers among financial institutions. As stated on their official site, "JPMorgan Chase & Co. was formed through a series of mergers and acquisitions" (JPMorgan Chase, n.d.).
 
 #### Who are the founders of the company?
 The company traces its roots to J.P. Morgan & Co. and Chase Manhattan Corporation, with influential figures like J.P. Morgan and David Rockefeller.
 
 #### How did the idea for the company (or project) come about?
-The idea for integrating AI technology emerged from the need to enhance operational efficiency and customer experience in a competitive financial landscape. According to a recent report. 
-```
-"The integration of AI in financial services has been transformative, with institutions like JPMorgan Chase leading the way in machine learning applications" (Deloitte, 2023)
-```
+The idea for integrating AI technology emerged from the need to enhance operational efficiency and customer experience in a competitive financial landscape. According to a recent report, "The integration of AI in financial services has been transformative, with institutions like JPMorgan Chase leading the way in machine learning applications" (Deloitte, 2023).
 
 #### How is the company funded? How much funding have they received?
-JPMorgan Chase is funded through its operations and capital markets, as it is a publicly traded company. 
-```
-"As a publicly traded entity, JPMorgan Chase primarily funds its operations through capital markets and internal revenue" (SEC, 2023)
-```
+JPMorgan Chase is funded through its operations and capital markets, as it is a publicly traded company. "As a publicly traded entity, JPMorgan Chase primarily funds its operations through capital markets and internal revenue" (SEC, 2023).
 
 ## Business Activities
 #### What specific problem is the company or project trying to solve?
 The company aims to solve inefficiencies in banking operations, enhance customer service, and improve risk management through AI-driven solutions.
 
 #### Who is the company's intended customer? Is there any information about the market size of this set of customers?
-The primary customers include individuals, small businesses, and large corporations. The global banking market is valued at several trillion dollars, with significant growth potential in digital services. 
-```
-"The global banking market is valued at over $5 trillion, presenting significant opportunities for digital service innovations" (Statista, 2023)
-```
+The primary customers include individuals, small businesses, and large corporations. The global banking market is valued at several trillion dollars, with significant growth potential in digital services. "The global banking market is valued at over $5 trillion, presenting significant opportunities for digital service innovations" (Statista, 2023).
 
 #### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 JPMorgan Chase utilizes vast amounts of data and advanced AI algorithms to provide personalized services and enhanced fraud detection, supported by extensive resources and a strong brand reputation.
@@ -46,10 +34,7 @@ The company employs machine learning, natural language processing, and advanced 
 JPMorgan Chase operates in the financial services and banking sector, with a focus on fintech innovations.
 
 #### What have been the major trends and innovations of this field over the last 5–10 years?
-Key trends include the rise of digital banking, AI-driven customer service, blockchain technology, and enhanced cybersecurity practices. 
-```
-"Key trends over the past decade include the rise of digital banking and AI-driven customer engagement strategies" (McKinsey, 2023)
-```
+Key trends include the rise of digital banking, AI-driven customer service, blockchain technology, and enhanced cybersecurity practices. "Key trends over the past decade include the rise of digital banking and AI-driven customer engagement strategies" (McKinsey, 2023).
 
 #### What are the other major companies in this field?
 Competitors include Bank of America, Citigroup, and fintech companies like Square and PayPal.
